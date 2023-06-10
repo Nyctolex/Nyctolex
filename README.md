@@ -1,7 +1,17 @@
-### Hi there 👋
+### Alex here 👋
+
+<table><tr><td align="center" width="55%">
+  
+![Hu's github stats](https://github-readme-stats.vercel.app/api?username=Nyctolex&count_private=true&show_icons=true&theme=dark)
+  
+</td><td align="top" width="45%">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyctolex&layout=compact&theme=dark)
+
+</td></tr></table>
 
 <!--
-**Nyctolex/Nyctolex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Huixxi/Huixxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
